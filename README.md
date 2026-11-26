@@ -204,29 +204,53 @@ ______
 以下是为AFAC2026金融智能创新大赛内容开放做出贡献的团队和个人：
 
 💡 MAgent
+
 💡 Alpha
+
 💡 Arknights
+
 💡 大果粒
+
 💡 未来过去现在队
+
 💡 1Sonnet4
+
 💡 ths
+
 💡 爱吃草的小羊
+
 💡 noone
+
 💡 陈延润-45410
+
 💡 150467
+
 💡 COM
+
 💡 华山逐鹿
+
 💡 Agent帮我起名
+
 💡 奶龙
+
 💡 你喜欢仙人掌吗
+
 💡 拜托了，Codex大人
+
 💡 milk
+
 💡 过目不忘
+
 💡 Lucky
+
 💡 AAADogs
+
 💡 奇迹行者
+
 💡 Aigege
+
 💡 sht
+
 💡 ... 更多贡献者
 
 ### 📍免责声明
@@ -236,6 +260,8 @@ ______
 ### 🔍联系我们
 
 感兴趣的朋友可以添加官方大赛群，请钉钉扫描二维码加入。
+<img width="442" height="392" alt="image" src="https://github.com/user-attachments/assets/e5e9d7bc-df15-482a-bc0e-dda261050461" />
+
 
 微信公众号
 
