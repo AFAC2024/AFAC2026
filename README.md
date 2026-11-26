@@ -253,6 +253,15 @@ ______
 
 感兴趣的朋友可以添加官方大赛群，请钉钉扫描二维码加入。
 
+<img width="404" height="388" alt="image" src="https://github.com/user-attachments/assets/4263f498-38d8-4baa-8f34-a7e807ee324b" />
+
+
 微信公众号
 
+<img width="430" height="430" alt="image" src="https://github.com/user-attachments/assets/67aa68ac-4187-4256-bb89-02632d5ce945" />
+
+
 大赛B站网址
+
+
+https://space.bilibili.com/1704071425?spm_id_from=333.337.search-card.all.click 
