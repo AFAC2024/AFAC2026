@@ -18,17 +18,21 @@ ______
 
 🎬路演视频
 
-📝 方案分享
 
 ### 🏆二等奖：Alpha
 
 📝 方案分享
+
 
 ### 🏆二等奖：Arknights
 
 🎬路演视频
 
 📝 方案分享
+
+
+[01-赛题一AFAC路演总决赛PPT_队伍Arknights.pptx](https://github.com/user-attachments/files/35492791/01-.AFAC.PPT_.Arknights.pptx)
+
 
 💻分享代码
 
@@ -38,6 +42,9 @@ ______
 
 📝 方案分享
 
+[02-决赛路演PPT_大果粒_最终版本.pptx](https://github.com/user-attachments/files/35492765/02-.PPT_._.pptx)
+
+
 💻分享代码
 
 ### 🏆三等奖：未来过去现在队
@@ -46,11 +53,17 @@ ______
 
 📝 方案分享
 
+[04-AFAC2026_决赛路演正式稿_未来过去现在队_终版.pptx](https://github.com/user-attachments/files/35492776/04-AFAC2026_._._.pptx)
+
+
 💻分享代码
 
 ### 🏆三等奖：1Sonnet4
 
 📝 方案分享
+
+[06-赛题一+1Sonnet4+决赛PPT.pptx](https://github.com/user-attachments/files/35492787/06-.%2B1Sonnet4%2B.PPT.pptx)
+
 
 💻分享代码
 
@@ -63,6 +76,7 @@ ______
 🎬路演视频
 
 📝 方案分享
+
 
 💻分享代码
 
