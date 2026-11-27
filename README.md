@@ -92,6 +92,7 @@ ______
 📝 方案分享
 
 
+
 💻分享代码
 
 ### 🏆二等奖：爱吃草的小羊
@@ -105,6 +106,9 @@ ______
 
 📝 方案分享
 
+[01-赛题二+爱吃草的小羊+决赛PPT.pptx](https://github.com/user-attachments/files/35494723/01-.%2B.%2B.PPT.pptx)
+
+
 💻分享代码
 
 ### 🏆二等奖：noone
@@ -112,6 +116,8 @@ ______
 🎬路演视频
 
 📝 方案分享
+
+
 
 ### 🏆三等奖：陈延润-45410
 
@@ -123,7 +129,11 @@ ______
 
 📝 方案分享
 
-💻分享代码（若在GitHub开源代码，请注明作者GitHub账号yanrunchen）
+[06-赛题二+陈延润-45410+决赛PPT.pptx](https://github.com/user-attachments/files/35494744/06-.%2B.-45410%2B.PPT.pptx)
+
+
+💻分享代码
+
 
 ### 🏆三等奖：150467
 
@@ -139,6 +149,9 @@ ______
 🎬路演视频
 
 📝 方案分享
+
+[09赛题二-COM-决赛ppt.pptx](https://github.com/user-attachments/files/35494746/09.-COM-.ppt.pptx)
+
 
 💻分享代码
 
@@ -158,6 +171,9 @@ ______
 
 📝 方案分享
 
+[01-赛题三+Agent帮我起名+决赛PPT.pptx](https://github.com/user-attachments/files/35494756/01-.%2BAgent.%2B.PPT.pptx)
+
+
 💻分享代码
 
 ### 🏆二等奖：奶龙
@@ -170,6 +186,9 @@ ______
 🎬路演视频
 
 📝 方案分享
+
+[09赛题三+奶龙+决赛PPT.pptx](https://github.com/user-attachments/files/35494760/09.%2B.%2B.PPT.pptx)
+
 
 💻分享代码
 
@@ -184,6 +203,9 @@ ______
 
 📝 方案分享
 
+
+
+
 💻分享代码
 
 ### 🏆三等奖：拜托了，Codex大人
@@ -197,6 +219,9 @@ ______
 
 📝 方案分享
 
+[06-赛题三 拜托了，Codex大人 决赛PPt.pptx](https://github.com/user-attachments/files/35494767/06-.Codex.PPt.pptx)
+
+
 ### 🏆三等奖：milk
 
 📃 分享文章
@@ -207,6 +232,9 @@ ______
 🎬路演视频
 
 📝 方案分享
+
+
+
 
 💻分享代码
 
@@ -225,6 +253,9 @@ ______
 
 📝 方案分享
 
+
+
+
 ### 🏆二等奖：Lucky
 
 📃 分享文章
@@ -236,6 +267,9 @@ ______
 🎬路演视频
 
 📝 方案分享
+
+[03-赛题四+Lucky+决赛PPT.pptx](https://github.com/user-attachments/files/35494782/03-.%2BLucky%2B.PPT.pptx)
+
 
 ### 🏆二等奖：AAADogs
 
@@ -258,6 +292,10 @@ ______
 
 📝 方案分享
 
+
+
+
+
 ### 🏆三等奖：Aigege
 
 > 该团队未授权公开路演视频、PPT及代码。
@@ -267,6 +305,9 @@ ______
 🎬路演视频
 
 📝 方案分享
+
+
+
 
 💻分享代码
 
