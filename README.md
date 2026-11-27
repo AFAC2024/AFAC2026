@@ -23,6 +23,11 @@ ______
 
 📝 方案分享
 
+📃 分享文章
+
+[AFAC获奖频道｜东北财经大学二人组队Alpha斩获二等奖](https://mp.weixin.qq.com/s/wqpN1IWBNtCT3cU9m-GAfg)
+
+
 
 ### 🏆二等奖：Arknights
 
@@ -49,6 +54,11 @@ ______
 
 ### 🏆三等奖：未来过去现在队
 
+📃 分享文章
+
+[AFAC获奖频道｜北京交通大学研三学生独闯大赛获三等奖](https://mp.weixin.qq.com/s/fbwEHZGPKXZPjZP3H9duqQ)
+
+
 🎬路演视频
 
 📝 方案分享
@@ -73,6 +83,10 @@ ______
 
 ### 🏆一等奖：ths
 
+📃 分享文章
+
+[冠军方案分享 | "ths"团队获挑战组"复杂金融文档还原"赛题一等奖](https://mp.weixin.qq.com/s/One3p8UJTGdWhCKw3aakkA)
+
 🎬路演视频
 
 📝 方案分享
@@ -81,6 +95,11 @@ ______
 💻分享代码
 
 ### 🏆二等奖：爱吃草的小羊
+
+📃 分享文章
+
+[AFAC获奖频道｜电子科技大学三人成团 爱吃草的小羊获得二等奖](https://mp.weixin.qq.com/s/VrIylkVh2SrjJo_JCvaVYg)
+
 
 🎬路演视频
 
@@ -96,6 +115,10 @@ ______
 
 ### 🏆三等奖：陈延润-45410
 
+📃 分享文章
+
+[AFAC获奖频道｜东南大学毕业生获得大赛三等奖](https://mp.weixin.qq.com/s/PcRaolfM3B3fxLfVIGgWyg)
+
 🎬路演视频
 
 📝 方案分享
@@ -103,6 +126,11 @@ ______
 💻分享代码（若在GitHub开源代码，请注明作者GitHub账号yanrunchen）
 
 ### 🏆三等奖：150467
+
+📃 分享文章
+
+[AFAC获奖频道 | 上海大学团队获挑战组三等奖！](https://mp.weixin.qq.com/s/M-Tuzcbfx2Pns9ye3H7tnQ)
+
 
 💻分享代码
 
@@ -120,7 +148,11 @@ ______
 
 ### 🏆一等奖：华山逐鹿
 
-> 该团队未授权公开路演视频、PPT及代码。
+📃 分享文章
+
+[清华大学求真书院"华山逐鹿"团队荣获挑战组一等奖！让Agent像研究者一样做实验](https://mp.weixin.qq.com/s/yubmI09da9lN2IZAEnNcqA)
+
+
 
 ### 🏆二等奖：Agent帮我起名
 
@@ -130,6 +162,11 @@ ______
 
 ### 🏆二等奖：奶龙
 
+📃 分享文章
+
+[AFAC获奖频道 | 浙江大学"奶龙"团队人机协作参赛，荣获挑战组二等奖！](https://mp.weixin.qq.com/s/Ys3yT3m83tzogcDVcOzsAQ)
+
+
 🎬路演视频
 
 📝 方案分享
@@ -137,6 +174,11 @@ ______
 💻分享代码
 
 ### 🏆三等奖：你喜欢仙人掌吗
+
+📃 分享文章
+
+[AFAC获奖频道 | 软件工程+情报学跨学科博士，荣获挑战组三等奖！](https://mp.weixin.qq.com/s/kFFHInfMZQqhP9v_CE9wTQ)
+
 
 🎬路演视频
 
@@ -146,11 +188,21 @@ ______
 
 ### 🏆三等奖：拜托了，Codex大人
 
+📃 分享文章
+
+[AFAC获奖频道 | 哈尔滨工业大学x湖南大学两校学生联队，斩获挑战组三等奖](https://mp.weixin.qq.com/s/gxoVB2Zf2VjoCALr4AS2qQ)
+
+
 🎬路演视频
 
 📝 方案分享
 
 ### 🏆三等奖：milk
+
+📃 分享文章
+
+[AFAC获奖频道 | 浙大宁波理工学院团队荣获挑战组三等奖](https://mp.weixin.qq.com/s/ACACxaVPIk1L9sJIKQzqTg)
+
 
 🎬路演视频
 
@@ -164,11 +216,22 @@ ______
 
 ### 🏆一等奖：过目不忘
 
+📃 分享文章
+
+[AFAC获奖频道｜中国人民大学大三学生组队获挑战组一等奖！](https://mp.weixin.qq.com/s/Oo6HCJ6Bq3ZbxpG0WrkaYA)
+
+
 🎬路演视频
 
 📝 方案分享
 
 ### 🏆二等奖：Lucky
+
+📃 分享文章
+
+[AFAC获奖频道｜华中科技大学"Lucky"团队获挑战组二等奖！](https://mp.weixin.qq.com/s/owyWcv97sotp2MfLqh_3oA)
+
+
 
 🎬路演视频
 
@@ -176,11 +239,22 @@ ______
 
 ### 🏆二等奖：AAADogs
 
+📃 分享文章
+
+[AFAC获奖频道｜北京大学研究生x阿里算法工程师携手组队获挑战组二等奖](https://mp.weixin.qq.com/s/Jqz_D2TVCq8hAE5bLDjzJw)
+
+
 🎬路演视频
 
 💻分享代码（脱敏版）
 
 ### 🏆三等奖：奇迹行者
+
+📃 分享文章
+
+[AFAC获奖频道 | 搜得全、压得精、查得回，奇迹行者团队三等奖方案分享](https://mp.weixin.qq.com/s/2tqTrrWehnCCDALBGKQ-9Q)
+
+
 
 📝 方案分享
 
